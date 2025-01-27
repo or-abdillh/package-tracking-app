@@ -1,5 +1,5 @@
 <template>
-    <main class="fixed bottom-0 left-0 right-0">
+    <main class="fixed bottom-0 left-0 right-0 bg-black">
         <!-- inner wrapper -->
         <section class="w-full md:w-5/12 lg:w-4/12 xl:w-3/12 md:mx-auto px-8 pb-8 pt-6 flex items-start justify-around gap-3 border-t-2 border-black-secondary">
             <template v-for="link in links" :key="link">
