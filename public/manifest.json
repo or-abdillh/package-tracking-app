@@ -1,0 +1,11 @@
+{
+    "theme_color": "##171717",
+    "background_color": "#242424",
+    "orientation": "any",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "id-ID",
+    "name": "Package Tracking App",
+    "short_name": "Package Tracking",
+    "icons": []
+}
